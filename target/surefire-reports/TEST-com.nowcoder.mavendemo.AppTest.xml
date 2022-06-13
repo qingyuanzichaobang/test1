@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.nowcoder.mavendemo.AppTest" time="0.012" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\work\mavendemo\target\test-classes;D:\work\mavendemo\target\classes;C:\Users\H\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\H\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\environment\java\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\H\AppData\Local\Temp\surefire2276785949989518294\surefirebooter1154058588631982257.jar C:\Users\H\AppData\Local\Temp\surefire2276785949989518294 2022-06-08T10-19-50_641-jvmRun1 surefire560252026284411483tmp surefire_09051726300884663374tmp"/>
+    <property name="surefire.test.class.path" value="D:\work\mavendemo\target\test-classes;D:\work\mavendemo\target\classes;C:\Users\H\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\H\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\H"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\environment\java\jre"/>
+    <property name="basedir" value="D:\work\mavendemo"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\H\AppData\Local\Temp\surefire2276785949989518294\surefirebooter1154058588631982257.jar"/>
+    <property name="sun.boot.class.path" value="D:\environment\java\jre\lib\resources.jar;D:\environment\java\jre\lib\rt.jar;D:\environment\java\jre\lib\sunrsasign.jar;D:\environment\java\jre\lib\jsse.jar;D:\environment\java\jre\lib\jce.jar;D:\environment\java\jre\lib\charsets.jar;D:\environment\java\jre\lib\jfr.jar;D:\environment\java\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_202-b08"/>
+    <property name="user.name" value="H"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\environment\java\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\H\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\H\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2021.2.3"/>
+    <property name="java.version" value="1.8.0_202"/>
+    <property name="user.dir" value="D:\work\mavendemo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\environment\java\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\H\anaconda3;C:\Users\H\anaconda3\Scripts;C:\Users\H\anaconda3\Library\bin;D:\matlab\runtime\win64;D:\matlab\bin;D:\matlab\polyspace\bin;C:\Program Files\PuTTY\;D:\environment\java\bin;D:\environment\java\jre\bin;C:\CTEX\UserData\miktex\bin;C:\CTEX\MiKTeX\miktex\bin;C:\CTEX\CTeX\ctex\bin;C:\CTEX\CTeX\cct\bin;C:\CTEX\CTeX\ty\bin;C:\CTEX\Ghostscript\gs9.05\bin;C:\CTEX\GSview\gsview;C:\CTEX\WinEdt;D:\work\apache-maven-3.8.5\bin;C:\Users\H\anaconda3;C:\Users\H\anaconda3\Library\mingw-w64\bin;C:\Users\H\anaconda3\Library\usr\bin;C:\Users\H\anaconda3\Library\bin;C:\Users\H\anaconda3\Scripts;C:\Users\H\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.2\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.202-b08"/>
+    <property name="java.ext.dirs" value="D:\environment\java\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.nowcoder.mavendemo.AppTest" time="0.001"/>
+</testsuite>
